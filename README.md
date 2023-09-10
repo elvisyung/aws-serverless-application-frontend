@@ -1,2 +1,2 @@
 # ReserveMySpace - AWS Serverless Application (Frontend)
-Developed a full-stack serverless application utilising Amazon Web Services (Lambda, ApiGateway, DynamoDB, Cognito), React/Typescript and deployed as CloudFormation to understand CDK infrastructures.
+Engineered a comprehensive, serverless full-stack application leveraging the power of Amazon Web Services, including Lambda, API Gateway, DynamoDB, and Cognito, in tandem with React and TypeScript. Orchestrated the deployment of this application using CloudFormation, with a focus on gaining a deep understanding of AWS CDK (Cloud Development Kit) infrastructure.
